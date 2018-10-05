@@ -29,7 +29,7 @@
 // Update these with values suitable for your network.
 
 const char* ssid = "varmar";
-const char* password = "AvadaKedavara112";
+const char* password = "xxxxxxxxxxx";
 const char* mqtt_server = "192.168.1.127";
 
 #define INPUT_PIN 2
